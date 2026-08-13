@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-13",
+  "mech": "0x76a9a29441c7acd072b03e63911f0e177de56ab7",
+  "tool": "superforcaster-polymarket-v4",
+  "forecasts": [
+    {
+      "question": "Will the US confirm that aliens exist before 2027?",
+      "market_yes": 0.045,
+      "ai_yes": 0.005,
+      "ai_conf": 0.98,
+      "req_id": "102335248835414085537608140878268230938978485688085024161895098309007609134223",
+      "cid": "bafybeihnx2tcwavjljf2l2tmjmdpwnxikg4immddnx4m2qiqw2vezv6lva"
+    },
+    {
+      "question": "Will Trump acquire Greenland before 2027?",
+      "market_yes": 0.037,
+      "ai_yes": 0.005,
+      "ai_conf": 0.98,
+      "req_id": "94194943234292941283715072166245433855858029171599408387212829702239431759117",
+      "cid": "bafybeiel6pmoss55ifrzob4wzyvsejmnnebjicuzvis5ug2sidzxokojuq"
+    },
+    {
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "market_yes": 0.0475,
+      "ai_yes": 0.045,
+      "ai_conf": 0.85,
+      "req_id": "37995630612637367639545425727901452013041247604271376548077995705541572199006",
+      "cid": "bafybeihgiqqamri5umy7dcs6khhvvozkq3apkce2msxosxrclamm3aktai"
+    },
+    {
+      "question": "Will GameStop acquire eBay?",
+      "market_yes": 0.085,
+      "ai_yes": 0.015,
+      "ai_conf": 0.95,
+      "req_id": "46288392524067752524448797169828365302207911311529439939619744115415860372469",
+      "cid": "bafybeifyhe3vm77vibdmbohkh6e4qamste4vfet3xdo2a5t5e5vtdaypd4"
+    },
+    {
+      "question": "Will Satoshi move any Bitcoin in 2026?",
+      "market_yes": 0.0475,
+      "ai_yes": 0.015,
+      "ai_conf": 0.95,
+      "req_id": "93118944605029926950138140906420657836875675011710646195976009561679250541333",
+      "cid": "bafybeighvhi37vuikloarisqmfr5ztiznbibtodgffytbdz3ej7dht4l6u"
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "market_yes": 0.085,
+      "ai_yes": 0.32,
+      "ai_conf": 0.7,
+      "req_id": "15960373208008750737625702695996691117652138903852767974513562872768999640604",
+      "cid": "bafybeiethc66tg7moprivb2l6nz226igxrm4o3qfzolbbxdsqo267yrshq"
+    }
+  ]
+}
